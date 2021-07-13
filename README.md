@@ -1,4 +1,5 @@
 - 👋 Hi, I’m @KaiHanne... since GertJan was already taken, sort of a Norwegian equiv 
+- So... my real name is Gert Jan or in script headers AKA Gert J. Willems....
 - 👀 I’m interested in my family & friends, and in random order: scripting, system programming, databases, music, cycling, Beer 
 - 🌱 I’m currently learning GIT, GOlang, Python a.o.
 - 💞️ I’m looking to collaborate on: invite me!
