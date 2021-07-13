@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @KaiHanne... since GertJan was already taken, sort of a Norwegian equiv 
-- 👀 I’m interested in my family, and in random order: scripting, system programming, databases, music, cycling, Beer 
+- 👀 I’m interested in my family & friends, and in random order: scripting, system programming, databases, music, cycling, Beer 
 - 🌱 I’m currently learning GIT, GOlang, Python a.o.
 - 💞️ I’m looking to collaborate on: invite me!
 - 📫 How to reach me ... gjwillems@itassist.nl 
